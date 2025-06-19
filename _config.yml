@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yan Zhang / Salt.zip"
+title                    : "Uncompress Salt.zip"
 title_separator          : "-"
 name                     : &name "Yan Zhang"
 description              : &description "Go with the tide."
@@ -24,12 +24,9 @@ author:
   # Biographic information
   avatar           : "yz.png"
   name             : "Yan Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Go with the tide."
-  location         : "Earth"
-  employer         : "Central China Normal University"
-  uri              : # URL
-  email            : "none@example.org" 
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
