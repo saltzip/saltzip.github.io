@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Yan Zhang!
+Welcome to Yan's log!
