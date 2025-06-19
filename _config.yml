@@ -22,7 +22,7 @@ repository               : "saltzip/saltzip.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yz.png"
+  avatar           : "yz.jpg"
   name             : "Yan Zhang"
   pronouns         : "she/her"  
   bio              : "Go with the tide."
