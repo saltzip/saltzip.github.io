@@ -13,7 +13,7 @@ title                    : "Salt.zip"
 title_separator          : "-"
 name                     : &name "Yan Zhang"
 description              : &description "You are on your own kid."
-url                      : https://saltzip.github.io
+url                      : https://saltzip.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saltzip/saltzip.github.io"
 
